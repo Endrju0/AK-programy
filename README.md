@@ -6,6 +6,6 @@ https://en.wikichip.org/wiki/intel/mcs-8/isa <br/>
 http://www.binaryhexconverter.com/hex-to-decimal-converter <br/>
 https://pl.wikipedia.org/wiki/ASCII <br />
 
-8086
-http://skowi_magik.republika.pl/dos.htm
+8086 <br />
+http://skowi_magik.republika.pl/dos.htm <br />
 http://ce.kashanu.ac.ir/sabaghian/assembly/8086%20tutorial/8086%20Assembler%20Tutorial%20for%20Beginners%20(Part%201).htm
